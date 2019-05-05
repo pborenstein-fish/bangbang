@@ -1,0 +1,2 @@
+source $path/$package.fish
+
